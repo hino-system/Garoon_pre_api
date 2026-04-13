@@ -1,0 +1,334 @@
+{
+  "items": [
+    {
+      "id": "emp-001",
+      "userId": "1",
+      "password": "1",
+      "displayName": "佐藤",
+      "department1": null,
+      "department2": null,
+      "position": "社長",
+      "role": "president"
+    },
+    {
+      "id": "emp-002",
+      "userId": "2",
+      "password": "2",
+      "displayName": "鈴木",
+      "department1": "営業部",
+      "department2": null,
+      "position": "部長",
+      "role": "department_manager"
+    },
+    {
+      "id": "emp-003",
+      "userId": "3",
+      "password": "3",
+      "displayName": "高橋",
+      "department1": "営業部",
+      "department2": "営業1課",
+      "position": "課長",
+      "role": "section_manager"
+    },
+    {
+      "id": "emp-004",
+      "userId": "4",
+      "password": "4",
+      "displayName": "田中",
+      "department1": "営業部",
+      "department2": "営業1課",
+      "position": "一般",
+      "role": "member"
+    },
+    {
+      "id": "emp-005",
+      "userId": "5",
+      "password": "5",
+      "displayName": "伊藤",
+      "department1": "営業部",
+      "department2": "営業1課",
+      "position": "一般",
+      "role": "member"
+    },
+    {
+      "id": "emp-006",
+      "userId": "6",
+      "password": "6",
+      "displayName": "渡辺",
+      "department1": "営業部",
+      "department2": null,
+      "position": "部長",
+      "role": "department_manager"
+    },
+    {
+      "id": "emp-007",
+      "userId": "7",
+      "password": "7",
+      "displayName": "山本",
+      "department1": "営業部",
+      "department2": "営業2課",
+      "position": "課長",
+      "role": "section_manager"
+    },
+    {
+      "id": "emp-008",
+      "userId": "8",
+      "password": "8",
+      "displayName": "中村",
+      "department1": "営業部",
+      "department2": "営業2課",
+      "position": "一般",
+      "role": "member"
+    },
+    {
+      "id": "emp-009",
+      "userId": "9",
+      "password": "9",
+      "displayName": "小林",
+      "department1": "営業部",
+      "department2": "営業2課",
+      "position": "一般",
+      "role": "member"
+    },
+    {
+      "id": "emp-010",
+      "userId": "10",
+      "password": "10",
+      "displayName": "加藤",
+      "department1": "総務部",
+      "department2": null,
+      "position": "部長",
+      "role": "department_manager"
+    },
+    {
+      "id": "emp-011",
+      "userId": "11",
+      "password": "11",
+      "displayName": "吉田",
+      "department1": "総務部",
+      "department2": "総務1課",
+      "position": "課長",
+      "role": "section_manager"
+    },
+    {
+      "id": "emp-012",
+      "userId": "12",
+      "password": "12",
+      "displayName": "山田",
+      "department1": "総務部",
+      "department2": "総務1課",
+      "position": "一般",
+      "role": "member"
+    },
+    {
+      "id": "emp-013",
+      "userId": "13",
+      "password": "13",
+      "displayName": "佐々木",
+      "department1": "総務部",
+      "department2": "総務1課",
+      "position": "一般",
+      "role": "member"
+    },
+    {
+      "id": "emp-014",
+      "userId": "14",
+      "password": "14",
+      "displayName": "山口",
+      "department1": "総務部",
+      "department2": null,
+      "position": "部長",
+      "role": "department_manager"
+    },
+    {
+      "id": "emp-015",
+      "userId": "15",
+      "password": "15",
+      "displayName": "松本",
+      "department1": "総務部",
+      "department2": "総務2課",
+      "position": "課長",
+      "role": "section_manager"
+    },
+    {
+      "id": "emp-016",
+      "userId": "16",
+      "password": "16",
+      "displayName": "井上",
+      "department1": "総務部",
+      "department2": "総務2課",
+      "position": "一般",
+      "role": "member"
+    },
+    {
+      "id": "emp-017",
+      "userId": "17",
+      "password": "17",
+      "displayName": "木村",
+      "department1": "総務部",
+      "department2": "総務2課",
+      "position": "一般",
+      "role": "member"
+    },
+    {
+      "id": "emp-018",
+      "userId": "18",
+      "password": "18",
+      "displayName": "林",
+      "department1": "人事部",
+      "department2": null,
+      "position": "部長",
+      "role": "department_manager"
+    },
+    {
+      "id": "emp-019",
+      "userId": "19",
+      "password": "19",
+      "displayName": "斎藤",
+      "department1": "人事部",
+      "department2": "人事1課",
+      "position": "課長",
+      "role": "section_manager"
+    },
+    {
+      "id": "emp-020",
+      "userId": "20",
+      "password": "20",
+      "displayName": "清水",
+      "department1": "人事部",
+      "department2": "人事1課",
+      "position": "一般",
+      "role": "member"
+    },
+    {
+      "id": "emp-021",
+      "userId": "21",
+      "password": "21",
+      "displayName": "山崎",
+      "department1": "人事部",
+      "department2": "人事1課",
+      "position": "一般",
+      "role": "member"
+    },
+    {
+      "id": "emp-022",
+      "userId": "22",
+      "password": "22",
+      "displayName": "森",
+      "department1": "人事部",
+      "department2": null,
+      "position": "部長",
+      "role": "department_manager"
+    },
+    {
+      "id": "emp-023",
+      "userId": "23",
+      "password": "23",
+      "displayName": "池田",
+      "department1": "人事部",
+      "department2": "人事2課",
+      "position": "課長",
+      "role": "section_manager"
+    },
+    {
+      "id": "emp-024",
+      "userId": "24",
+      "password": "24",
+      "displayName": "橋本",
+      "department1": "人事部",
+      "department2": "人事2課",
+      "position": "一般",
+      "role": "member"
+    },
+    {
+      "id": "emp-025",
+      "userId": "25",
+      "password": "25",
+      "displayName": "阿部",
+      "department1": "人事部",
+      "department2": "人事2課",
+      "position": "一般",
+      "role": "member"
+    },
+    {
+      "id": "emp-026",
+      "userId": "26",
+      "password": "26",
+      "displayName": "石川",
+      "department1": "情報システム部",
+      "department2": null,
+      "position": "部長",
+      "role": "department_manager"
+    },
+    {
+      "id": "emp-027",
+      "userId": "27",
+      "password": "27",
+      "displayName": "山下",
+      "department1": "情報システム部",
+      "department2": "情報システム1課",
+      "position": "課長",
+      "role": "section_manager"
+    },
+    {
+      "id": "emp-028",
+      "userId": "28",
+      "password": "28",
+      "displayName": "中島",
+      "department1": "情報システム部",
+      "department2": "情報システム1課",
+      "position": "一般",
+      "role": "member"
+    },
+    {
+      "id": "emp-029",
+      "userId": "29",
+      "password": "29",
+      "displayName": "石井",
+      "department1": "情報システム部",
+      "department2": "情報システム1課",
+      "position": "一般",
+      "role": "member"
+    },
+    {
+      "id": "emp-030",
+      "userId": "30",
+      "password": "30",
+      "displayName": "小川",
+      "department1": "情報システム部",
+      "department2": null,
+      "position": "部長",
+      "role": "department_manager"
+    },
+    {
+      "id": "emp-031",
+      "userId": "31",
+      "password": "31",
+      "displayName": "前田",
+      "department1": "情報システム部",
+      "department2": "情報システム2課",
+      "position": "課長",
+      "role": "section_manager"
+    },
+    {
+      "id": "emp-032",
+      "userId": "32",
+      "password": "32",
+      "displayName": "岡田",
+      "department1": "情報システム部",
+      "department2": "情報システム2課",
+      "position": "一般",
+      "role": "member"
+    },
+    {
+      "id": "emp-033",
+      "userId": "33",
+      "password": "33",
+      "displayName": "長谷川",
+      "department1": "情報システム部",
+      "department2": "情報システム2課",
+      "position": "一般",
+      "role": "member"
+    }
+  ]
+}

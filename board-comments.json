@@ -1,0 +1,200 @@
+{
+  "items": [
+    { "id": "cmt-001", "postId": "post-001", "body": "営業部でも参加者を取りまとめます。4/17までに一覧を共有します。", "authorUserId": "emp-002", "authorName": "鈴木", "createdAt": "202604131010", "updatedAt": "202604131010" },
+    { "id": "cmt-002", "postId": "post-001", "body": "採用候補者向け説明資料にも流用したいので、録画可否を確認したいです。", "authorUserId": "emp-018", "authorName": "林", "createdAt": "202604131018", "updatedAt": "202604131018" },
+    { "id": "cmt-003", "postId": "post-001", "body": "配信機材の準備は情報システム部で対応します。", "authorUserId": "emp-026", "authorName": "石川", "createdAt": "202604131026", "updatedAt": "202604131026" },
+    { "id": "cmt-004", "postId": "post-001", "body": "総務部で当日の会場設営担当を整理しておきます。", "authorUserId": "emp-010", "authorName": "加藤", "createdAt": "202604131033", "updatedAt": "202604131033" },
+
+    { "id": "cmt-005", "postId": "post-002", "body": "総務1課で押印申請の回収を進めます。4/23夕方に最終確認します。", "authorUserId": "emp-011", "authorName": "吉田", "createdAt": "202604131045", "updatedAt": "202604131045" },
+    { "id": "cmt-006", "postId": "post-002", "body": "入社書類の最終締切も同日扱いで問題ないか、人事部側で確認します。", "authorUserId": "emp-020", "authorName": "清水", "createdAt": "202604131053", "updatedAt": "202604131053" },
+    { "id": "cmt-007", "postId": "post-002", "body": "営業部は外出が多いので、週明けに再周知しておきます。", "authorUserId": "emp-006", "authorName": "渡辺", "createdAt": "202604131059", "updatedAt": "202604131059" },
+
+    { "id": "cmt-008", "postId": "post-004", "body": "受付担当可能です。午前枠を希望します。", "authorUserId": "emp-020", "authorName": "清水", "createdAt": "202604131145", "updatedAt": "202604131145" },
+    { "id": "cmt-009", "postId": "post-004", "body": "学生向け会社紹介の原稿を更新しておきます。", "authorUserId": "emp-021", "authorName": "山崎", "createdAt": "202604131152", "updatedAt": "202604131152" },
+    { "id": "cmt-010", "postId": "post-004", "body": "ありがとうございます。人事部主導で進め、必要に応じて各部門へ依頼してください。", "authorUserId": "emp-001", "authorName": "佐藤", "createdAt": "202604131205", "updatedAt": "202604131205" },
+    { "id": "cmt-011", "postId": "post-004", "body": "営業部から座談会対応で1名出せます。午後枠で調整します。", "authorUserId": "emp-002", "authorName": "鈴木", "createdAt": "202604131212", "updatedAt": "202604131212" },
+    { "id": "cmt-012", "postId": "post-004", "body": "会社説明会の投影資料は前回版をベースに更新しておきます。", "authorUserId": "emp-026", "authorName": "石川", "createdAt": "202604131219", "updatedAt": "202604131219" },
+
+    { "id": "cmt-013", "postId": "post-005", "body": "A商事の提案書は4/16午前までに更新します。", "authorUserId": "emp-004", "authorName": "田中", "createdAt": "202604131220", "updatedAt": "202604131220" },
+    { "id": "cmt-014", "postId": "post-005", "body": "営業2課でも類似案件の事例を共有します。", "authorUserId": "emp-008", "authorName": "中村", "createdAt": "202604131228", "updatedAt": "202604131228" },
+    { "id": "cmt-015", "postId": "post-005", "body": "金曜会議で進捗確認します。懸念案件は事前に連絡してください。", "authorUserId": "emp-006", "authorName": "渡辺", "createdAt": "202604131236", "updatedAt": "202604131236" },
+    { "id": "cmt-016", "postId": "post-005", "body": "東和物流は提案範囲の再整理が必要そうです。詳細は別途共有します。", "authorUserId": "emp-005", "authorName": "伊藤", "createdAt": "202604131243", "updatedAt": "202604131243" },
+
+    { "id": "cmt-017", "postId": "post-006", "body": "参加します。商談想定問答も持参します。", "authorUserId": "emp-005", "authorName": "伊藤", "createdAt": "202604131245", "updatedAt": "202604131245" },
+    { "id": "cmt-018", "postId": "post-006", "body": "営業2課からも2名見学させてください。", "authorUserId": "emp-007", "authorName": "山本", "createdAt": "202604131252", "updatedAt": "202604131252" },
+    { "id": "cmt-019", "postId": "post-006", "body": "提案冒頭のヒアリング切り返し例もあると助かります。", "authorUserId": "emp-004", "authorName": "田中", "createdAt": "202604131300", "updatedAt": "202604131300" },
+
+    { "id": "cmt-020", "postId": "post-007", "body": "総務1課で押印申請の回収を進めます。4/23夕方に最終確認します。", "authorUserId": "emp-011", "authorName": "吉田", "createdAt": "202604151045", "updatedAt": "202604151045" },
+    { "id": "cmt-021", "postId": "post-007", "body": "4/15午後の受付枠を担当できます。", "authorUserId": "emp-016", "authorName": "井上", "createdAt": "202604151320", "updatedAt": "202604151320" },
+    { "id": "cmt-022", "postId": "post-007", "body": "来客用の会議室予約も済ませました。", "authorUserId": "emp-017", "authorName": "木村", "createdAt": "202604151328", "updatedAt": "202604151328" },
+    { "id": "cmt-023", "postId": "post-007", "body": "4/18午前は外出予定なので、別枠に入れ替え希望です。", "authorUserId": "emp-013", "authorName": "佐々木", "createdAt": "202604151336", "updatedAt": "202604151336" },
+
+    { "id": "cmt-024", "postId": "post-008", "body": "部長レビューは一次面接の翌営業日までにお願いします。", "authorUserId": "emp-018", "authorName": "林", "createdAt": "202604131345", "updatedAt": "202604131345" },
+    { "id": "cmt-025", "postId": "post-008", "body": "評価観点の説明会を4/17 16:00から実施します。", "authorUserId": "emp-023", "authorName": "池田", "createdAt": "202604131352", "updatedAt": "202604131352" },
+    { "id": "cmt-026", "postId": "post-008", "body": "候補者へのフィードバック反映もしやすくなりそうです。", "authorUserId": "emp-021", "authorName": "山崎", "createdAt": "202604131359", "updatedAt": "202604131359" },
+
+    { "id": "cmt-027", "postId": "post-009", "body": "PC更新対象の一覧を本日中に掲示します。", "authorUserId": "emp-032", "authorName": "岡田", "createdAt": "202604131410", "updatedAt": "202604131410" },
+    { "id": "cmt-028", "postId": "post-009", "body": "未返却機器の確認を進めます。結果は明日共有します。", "authorUserId": "emp-033", "authorName": "長谷川", "createdAt": "202604131418", "updatedAt": "202604131418" },
+    { "id": "cmt-029", "postId": "post-009", "body": "貸与スマホの台数差異がありそうなので、台帳を再確認します。", "authorUserId": "emp-027", "authorName": "山下", "createdAt": "202604131425", "updatedAt": "202604131425" },
+
+    { "id": "cmt-030", "postId": "post-010", "body": "総務部は庁舎裏の定食屋が人気です。テイクアウトもできます。", "authorUserId": "emp-013", "authorName": "佐々木", "createdAt": "202604131440", "updatedAt": "202604131440" },
+    { "id": "cmt-031", "postId": "post-010", "body": "人事部は駅前のベーカリーカフェ推しです。朝の打ち合わせにも使えます。", "authorUserId": "emp-024", "authorName": "橋本", "createdAt": "202604131448", "updatedAt": "202604131448" },
+    { "id": "cmt-032", "postId": "post-010", "body": "営業部ではカレー店の回転が早くて助かっています。", "authorUserId": "emp-002", "authorName": "鈴木", "createdAt": "202604131456", "updatedAt": "202604131456" },
+    { "id": "cmt-033", "postId": "post-010", "body": "情報システム部は少し歩きますが、麺類のお店がコスパ良いです。", "authorUserId": "emp-029", "authorName": "石井", "createdAt": "202604131503", "updatedAt": "202604131503" },
+    { "id": "cmt-034", "postId": "post-010", "body": "混雑を避けるなら11:30前に出るのがおすすめです。", "authorUserId": "emp-015", "authorName": "松本", "createdAt": "202604131511", "updatedAt": "202604131511" },
+
+    { "id": "cmt-035", "postId": "post-011", "body": "Android実機確認の小ネタも共有したいです。", "authorUserId": "emp-029", "authorName": "石井", "createdAt": "202604131510", "updatedAt": "202604131510" },
+    { "id": "cmt-036", "postId": "post-011", "body": "ネットワーク周りの補足もできるので、必要なら5分ください。", "authorUserId": "emp-031", "authorName": "前田", "createdAt": "202604131518", "updatedAt": "202604131518" },
+    { "id": "cmt-037", "postId": "post-011", "body": "営業でも議事録の取り方や共有の工夫を聞いてみたいです。", "authorUserId": "emp-008", "authorName": "中村", "createdAt": "202604131525", "updatedAt": "202604131525" },
+
+    { "id": "cmt-038", "postId": "post-012", "body": "総務2課で水やり当番を回せます。1週目を担当します。", "authorUserId": "emp-015", "authorName": "松本", "createdAt": "202604131540", "updatedAt": "202604131540" },
+    { "id": "cmt-039", "postId": "post-012", "body": "情シス側で自動給水器を試作できるか見てみます。", "authorUserId": "emp-027", "authorName": "山下", "createdAt": "202604131548", "updatedAt": "202604131548" },
+    { "id": "cmt-040", "postId": "post-012", "body": "人事部でも2週目担当できます。", "authorUserId": "emp-020", "authorName": "清水", "createdAt": "202604131555", "updatedAt": "202604131555" },
+
+    { "id": "cmt-041", "postId": "post-013", "body": "営業部の資料提出は4/24までに揃える想定で進めます。", "authorUserId": "emp-002", "authorName": "鈴木", "createdAt": "202604191015", "updatedAt": "202604191015" },
+    { "id": "cmt-042", "postId": "post-013", "body": "司会進行の台本たたき台を総務で作成します。", "authorUserId": "emp-010", "authorName": "加藤", "createdAt": "202604191023", "updatedAt": "202604191023" },
+    { "id": "cmt-043", "postId": "post-013", "body": "採用広報向けに写真撮影導線も加味しておきます。", "authorUserId": "emp-018", "authorName": "林", "createdAt": "202604191031", "updatedAt": "202604191031" },
+
+    { "id": "cmt-044", "postId": "post-014", "body": "30分以上の仮押さえが続く会議室は見直したいです。", "authorUserId": "emp-011", "authorName": "吉田", "createdAt": "202604191145", "updatedAt": "202604191145" },
+    { "id": "cmt-045", "postId": "post-014", "body": "営業は訪問前後で予定変更が多いので、開始15分前の自動確認があると助かります。", "authorUserId": "emp-003", "authorName": "高橋", "createdAt": "202604191153", "updatedAt": "202604191153" },
+    { "id": "cmt-046", "postId": "post-014", "body": "使い終わった会議室をすぐ解放できる導線は賛成です。", "authorUserId": "emp-028", "authorName": "中島", "createdAt": "202604191200", "updatedAt": "202604191200" },
+
+    { "id": "cmt-047", "postId": "post-015", "body": "新入社員向けに初回接続マニュアルも別紙でまとめます。", "authorUserId": "emp-027", "authorName": "山下", "createdAt": "202604201015", "updatedAt": "202604201015" },
+    { "id": "cmt-048", "postId": "post-015", "body": "営業部でよくある問い合わせを整理して、FAQ候補を送ります。", "authorUserId": "emp-007", "authorName": "山本", "createdAt": "202604201023", "updatedAt": "202604201023" },
+    { "id": "cmt-049", "postId": "post-015", "body": "在宅勤務申請の案内からもリンクしておくと親切そうです。", "authorUserId": "emp-019", "authorName": "斎藤", "createdAt": "202604201031", "updatedAt": "202604201031" },
+
+    { "id": "cmt-050", "postId": "post-016", "body": "A商事の状況は本日夕方に更新します。", "authorUserId": "emp-004", "authorName": "田中", "createdAt": "202604131620", "updatedAt": "202604131620" },
+    { "id": "cmt-051", "postId": "post-016", "body": "東和物流の競合情報は営業2課からも共有します。", "authorUserId": "emp-007", "authorName": "山本", "createdAt": "202604131628", "updatedAt": "202604131628" },
+    { "id": "cmt-052", "postId": "post-016", "body": "失注懸念案件は木曜午前までに一覧化しておきます。", "authorUserId": "emp-006", "authorName": "渡辺", "createdAt": "202604131636", "updatedAt": "202604131636" },
+
+    { "id": "cmt-053", "postId": "post-017", "body": "営業2課から2名見学予定です。", "authorUserId": "emp-008", "authorName": "中村", "createdAt": "202604131640", "updatedAt": "202604131640" },
+    { "id": "cmt-054", "postId": "post-017", "body": "ロープレの想定業界を共有してもらえると準備しやすいです。", "authorUserId": "emp-005", "authorName": "伊藤", "createdAt": "202604131648", "updatedAt": "202604131648" },
+    { "id": "cmt-055", "postId": "post-017", "body": "製造業向けと物流向けの2パターンで進める予定です。", "authorUserId": "emp-003", "authorName": "高橋", "createdAt": "202604131655", "updatedAt": "202604131655" },
+
+    { "id": "cmt-056", "postId": "post-018", "body": "営業1課からも2件ほど共有したい案件があります。", "authorUserId": "emp-003", "authorName": "高橋", "createdAt": "202604151315", "updatedAt": "202604151315" },
+    { "id": "cmt-057", "postId": "post-018", "body": "価格条件で競合に負けた案件の振り返りを持参します。", "authorUserId": "emp-009", "authorName": "小林", "createdAt": "202604151323", "updatedAt": "202604151323" },
+    { "id": "cmt-058", "postId": "post-018", "body": "事例共有の時間を少し長めに取りたいです。", "authorUserId": "emp-006", "authorName": "渡辺", "createdAt": "202604151331", "updatedAt": "202604151331" },
+
+    { "id": "cmt-059", "postId": "post-019", "body": "比較表のサンプルが入ったのはかなり使いやすそうです。", "authorUserId": "emp-004", "authorName": "田中", "createdAt": "202604161015", "updatedAt": "202604161015" },
+    { "id": "cmt-060", "postId": "post-019", "body": "物流業界向けの事例もあとで追加できそうです。", "authorUserId": "emp-008", "authorName": "中村", "createdAt": "202604161023", "updatedAt": "202604161023" },
+    { "id": "cmt-061", "postId": "post-019", "body": "過去提案書から流用できる図版も整理しておきます。", "authorUserId": "emp-005", "authorName": "伊藤", "createdAt": "202604161031", "updatedAt": "202604161031" },
+
+    { "id": "cmt-062", "postId": "post-020", "body": "営業1課は木曜17時までに一度更新します。", "authorUserId": "emp-003", "authorName": "高橋", "createdAt": "202604171315", "updatedAt": "202604171315" },
+    { "id": "cmt-063", "postId": "post-020", "body": "営業2課も案件ランク見直しを進めています。", "authorUserId": "emp-007", "authorName": "山本", "createdAt": "202604171323", "updatedAt": "202604171323" },
+    { "id": "cmt-064", "postId": "post-020", "body": "厳しめ案件は別タブで管理できるようにしておきます。", "authorUserId": "emp-006", "authorName": "渡辺", "createdAt": "202604171331", "updatedAt": "202604171331" },
+
+    { "id": "cmt-065", "postId": "post-021", "body": "A商事の次回商談で同行をお願いしたいです。", "authorUserId": "emp-004", "authorName": "田中", "createdAt": "202604201115", "updatedAt": "202604201115" },
+    { "id": "cmt-066", "postId": "post-021", "body": "北斗商事案件は営業2課で若手同行枠を出せます。", "authorUserId": "emp-007", "authorName": "山本", "createdAt": "202604201123", "updatedAt": "202604201123" },
+    { "id": "cmt-067", "postId": "post-021", "body": "部長同行案件は週内に整理して返答します。", "authorUserId": "emp-006", "authorName": "渡辺", "createdAt": "202604201131", "updatedAt": "202604201131" },
+
+    { "id": "cmt-068", "postId": "post-022", "body": "4/15午後の受付枠を担当できます。", "authorUserId": "emp-016", "authorName": "井上", "createdAt": "202604131720", "updatedAt": "202604131720" },
+    { "id": "cmt-069", "postId": "post-022", "body": "来客用の会議室予約も済ませました。", "authorUserId": "emp-017", "authorName": "木村", "createdAt": "202604131728", "updatedAt": "202604131728" },
+    { "id": "cmt-070", "postId": "post-022", "body": "4/18午前は外出なので別日の担当に回れます。", "authorUserId": "emp-013", "authorName": "佐々木", "createdAt": "202604131736", "updatedAt": "202604131736" },
+
+    { "id": "cmt-071", "postId": "post-023", "body": "受付横の文具棚も対象に含めて確認します。", "authorUserId": "emp-012", "authorName": "山田", "createdAt": "202604151155", "updatedAt": "202604151155" },
+    { "id": "cmt-072", "postId": "post-023", "body": "在庫差異が出た備品は写真付きでまとめます。", "authorUserId": "emp-016", "authorName": "井上", "createdAt": "202604151203", "updatedAt": "202604151203" },
+    { "id": "cmt-073", "postId": "post-023", "body": "会議室備品は総務2課で集中的に確認します。", "authorUserId": "emp-015", "authorName": "松本", "createdAt": "202604151211", "updatedAt": "202604151211" },
+
+    { "id": "cmt-074", "postId": "post-024", "body": "スクール形式だと後方席の見え方が気になっています。", "authorUserId": "emp-011", "authorName": "吉田", "createdAt": "202604171445", "updatedAt": "202604171445" },
+    { "id": "cmt-075", "postId": "post-024", "body": "島型だと座談会への切り替えがしやすそうです。", "authorUserId": "emp-017", "authorName": "木村", "createdAt": "202604171453", "updatedAt": "202604171453" },
+    { "id": "cmt-076", "postId": "post-024", "body": "プロジェクターの位置も考えると中央通路は広めが良さそうです。", "authorUserId": "emp-014", "authorName": "山口", "createdAt": "202604171501", "updatedAt": "202604171501" },
+
+    { "id": "cmt-077", "postId": "post-025", "body": "業者来訪時の名札受け渡し手順が分かりやすくなりました。", "authorUserId": "emp-016", "authorName": "井上", "createdAt": "202604181425", "updatedAt": "202604181425" },
+    { "id": "cmt-078", "postId": "post-025", "body": "受付担当の初回説明にも使いやすそうです。", "authorUserId": "emp-012", "authorName": "山田", "createdAt": "202604181433", "updatedAt": "202604181433" },
+
+    { "id": "cmt-079", "postId": "post-026", "body": "当日の受付なら対応できます。", "authorUserId": "emp-015", "authorName": "松本", "createdAt": "202604201345", "updatedAt": "202604201345" },
+    { "id": "cmt-080", "postId": "post-026", "body": "備品搬入の前日準備も手伝えます。", "authorUserId": "emp-017", "authorName": "木村", "createdAt": "202604201353", "updatedAt": "202604201353" },
+    { "id": "cmt-081", "postId": "post-026", "body": "タイムテーブル案が出たら見たいです。", "authorUserId": "emp-013", "authorName": "佐々木", "createdAt": "202604201401", "updatedAt": "202604201401" },
+
+    { "id": "cmt-082", "postId": "post-027", "body": "部長レビューは翌営業日までで運用します。", "authorUserId": "emp-018", "authorName": "林", "createdAt": "202604131845", "updatedAt": "202604131845" },
+    { "id": "cmt-083", "postId": "post-027", "body": "説明会は4/17 16:00で確定しました。", "authorUserId": "emp-023", "authorName": "池田", "createdAt": "202604131853", "updatedAt": "202604131853" },
+    { "id": "cmt-084", "postId": "post-027", "body": "カルチャーフィット欄の記入例もあると助かります。", "authorUserId": "emp-021", "authorName": "山崎", "createdAt": "202604131901", "updatedAt": "202604131901" },
+
+    { "id": "cmt-085", "postId": "post-028", "body": "受付と司会の兼務は避けたいので、タイムライン確認後に再調整したいです。", "authorUserId": "emp-020", "authorName": "清水", "createdAt": "202604151215", "updatedAt": "202604151215" },
+    { "id": "cmt-086", "postId": "post-028", "body": "座談会担当は営業部と情シスにも相談しておきます。", "authorUserId": "emp-018", "authorName": "林", "createdAt": "202604151223", "updatedAt": "202604151223" },
+    { "id": "cmt-087", "postId": "post-028", "body": "資料説明パートは人事1課で一度台本化してみます。", "authorUserId": "emp-019", "authorName": "斎藤", "createdAt": "202604151231", "updatedAt": "202604151231" },
+
+    { "id": "cmt-088", "postId": "post-029", "body": "内定承諾前の候補者で反応が鈍い方を別途一覧にします。", "authorUserId": "emp-021", "authorName": "山崎", "createdAt": "202604171015", "updatedAt": "202604171015" },
+    { "id": "cmt-089", "postId": "post-029", "body": "面談依頼のタイミングも合わせて整理したいです。", "authorUserId": "emp-024", "authorName": "橋本", "createdAt": "202604171023", "updatedAt": "202604171023" },
+    { "id": "cmt-090", "postId": "post-029", "body": "部門面談が必要な候補者は今週中に相談してください。", "authorUserId": "emp-018", "authorName": "林", "createdAt": "202604171031", "updatedAt": "202604171031" },
+
+    { "id": "cmt-091", "postId": "post-030", "body": "配属前に社内システムの使い方紹介があると良さそうです。", "authorUserId": "emp-026", "authorName": "石川", "createdAt": "202604181515", "updatedAt": "202604181515" },
+    { "id": "cmt-092", "postId": "post-030", "body": "営業部からは提案書の読み方入門があると良いと思います。", "authorUserId": "emp-002", "authorName": "鈴木", "createdAt": "202604181523", "updatedAt": "202604181523" },
+    { "id": "cmt-093", "postId": "post-030", "body": "総務からは来客対応や備品申請の基本も入れたいです。", "authorUserId": "emp-010", "authorName": "加藤", "createdAt": "202604181531", "updatedAt": "202604181531" },
+
+    { "id": "cmt-094", "postId": "post-031", "body": "媒体ごとの面談化率も入ると次回比較しやすいです。", "authorUserId": "emp-019", "authorName": "斎藤", "createdAt": "202604201045", "updatedAt": "202604201045" },
+    { "id": "cmt-095", "postId": "post-031", "body": "説明会経由の歩留まりも別で見てみたいです。", "authorUserId": "emp-018", "authorName": "林", "createdAt": "202604201053", "updatedAt": "202604201053" },
+    { "id": "cmt-096", "postId": "post-031", "body": "5月予算配分のたたき台作成時に参照します。", "authorUserId": "emp-023", "authorName": "池田", "createdAt": "202604201101", "updatedAt": "202604201101" },
+
+    { "id": "cmt-097", "postId": "post-032", "body": "PC更新対象の一覧を本日中に掲示します。", "authorUserId": "emp-032", "authorName": "岡田", "createdAt": "202604131910", "updatedAt": "202604131910" },
+    { "id": "cmt-098", "postId": "post-032", "body": "未返却機器の確認を進めます。結果は明日共有します。", "authorUserId": "emp-033", "authorName": "長谷川", "createdAt": "202604131918", "updatedAt": "202604131918" },
+    { "id": "cmt-099", "postId": "post-032", "body": "貸与スマホの棚卸は来週前半で完了見込みです。", "authorUserId": "emp-027", "authorName": "山下", "createdAt": "202604131926", "updatedAt": "202604131926" },
+
+    { "id": "cmt-100", "postId": "post-033", "body": "影響範囲の大きい作業から先に告知文を作ります。", "authorUserId": "emp-031", "authorName": "前田", "createdAt": "202604151515", "updatedAt": "202604151515" },
+    { "id": "cmt-101", "postId": "post-033", "body": "VPN影響のある作業は営業部にも事前共有をお願いします。", "authorUserId": "emp-026", "authorName": "石川", "createdAt": "202604151523", "updatedAt": "202604151523" },
+    { "id": "cmt-102", "postId": "post-033", "body": "手順書の表現を少し平易にして掲載します。", "authorUserId": "emp-028", "authorName": "中島", "createdAt": "202604151531", "updatedAt": "202604151531" },
+
+    { "id": "cmt-103", "postId": "post-034", "body": "申請導線はモバイル表示も意識したいです。", "authorUserId": "emp-029", "authorName": "石井", "createdAt": "202604171245", "updatedAt": "202604171245" },
+    { "id": "cmt-104", "postId": "post-034", "body": "掲示板の検索性も改善候補に入れたいです。", "authorUserId": "emp-032", "authorName": "岡田", "createdAt": "202604171253", "updatedAt": "202604171253" },
+    { "id": "cmt-105", "postId": "post-034", "body": "営業からはスケジュール共有の見やすさ改善要望が多いです。", "authorUserId": "emp-003", "authorName": "高橋", "createdAt": "202604171301", "updatedAt": "202604171301" },
+
+    { "id": "cmt-106", "postId": "post-035", "body": "夜間通知のうち再通知不要なものはまとめて良さそうです。", "authorUserId": "emp-029", "authorName": "石井", "createdAt": "202604181215", "updatedAt": "202604181215" },
+    { "id": "cmt-107", "postId": "post-035", "body": "一次対応が必要なアラートだけ音を変える案も賛成です。", "authorUserId": "emp-033", "authorName": "長谷川", "createdAt": "202604181223", "updatedAt": "202604181223" },
+    { "id": "cmt-108", "postId": "post-035", "body": "月次で件数推移も見たいです。", "authorUserId": "emp-026", "authorName": "石川", "createdAt": "202604181231", "updatedAt": "202604181231" },
+
+    { "id": "cmt-109", "postId": "post-036", "body": "人事システム連携は影響確認済みです。", "authorUserId": "emp-023", "authorName": "池田", "createdAt": "202604201415", "updatedAt": "202604201415" },
+    { "id": "cmt-110", "postId": "post-036", "body": "営業支援ツール側のSAML設定も確認しておきます。", "authorUserId": "emp-032", "authorName": "岡田", "createdAt": "202604201423", "updatedAt": "202604201423" },
+    { "id": "cmt-111", "postId": "post-036", "body": "連携漏れがないか一覧を再チェックします。", "authorUserId": "emp-027", "authorName": "山下", "createdAt": "202604201431", "updatedAt": "202604201431" },
+
+    { "id": "cmt-112", "postId": "post-037", "body": "総務部は庁舎裏の定食屋が人気です。テイクアウトもできます。", "authorUserId": "emp-013", "authorName": "佐々木", "createdAt": "202604131940", "updatedAt": "202604131940" },
+    { "id": "cmt-113", "postId": "post-037", "body": "人事部は駅前のベーカリーカフェ推しです。朝の打ち合わせにも使えます。", "authorUserId": "emp-024", "authorName": "橋本", "createdAt": "202604131948", "updatedAt": "202604131948" },
+    { "id": "cmt-114", "postId": "post-037", "body": "営業部ではカレー店の回転が早くて助かっています。", "authorUserId": "emp-002", "authorName": "鈴木", "createdAt": "202604131956", "updatedAt": "202604131956" },
+    { "id": "cmt-115", "postId": "post-037", "body": "情報システム部は少し遠いですが定食屋の焼き魚が人気です。", "authorUserId": "emp-031", "authorName": "前田", "createdAt": "202604132004", "updatedAt": "202604132004" },
+
+    { "id": "cmt-116", "postId": "post-038", "body": "Android実機確認の小ネタも共有したいです。", "authorUserId": "emp-029", "authorName": "石井", "createdAt": "202604131510", "updatedAt": "202604131510" },
+    { "id": "cmt-117", "postId": "post-038", "body": "ネットワーク周りの補足もできるので、必要なら5分ください。", "authorUserId": "emp-031", "authorName": "前田", "createdAt": "202604131518", "updatedAt": "202604131518" },
+    { "id": "cmt-118", "postId": "post-038", "body": "営業でも議事録の残し方など応用できそうで興味あります。", "authorUserId": "emp-008", "authorName": "中村", "createdAt": "202604131526", "updatedAt": "202604131526" },
+    { "id": "cmt-119", "postId": "post-038", "body": "リモート参加できるなら聞きたいです。", "authorUserId": "emp-020", "authorName": "清水", "createdAt": "202604131534", "updatedAt": "202604131534" },
+
+    { "id": "cmt-120", "postId": "post-039", "body": "総務2課で水やり当番を回せます。1週目を担当します。", "authorUserId": "emp-015", "authorName": "松本", "createdAt": "202604131540", "updatedAt": "202604131540" },
+    { "id": "cmt-121", "postId": "post-039", "body": "情シス側で自動給水器を試作できるか見てみます。", "authorUserId": "emp-027", "authorName": "山下", "createdAt": "202604131548", "updatedAt": "202604131548" },
+    { "id": "cmt-122", "postId": "post-039", "body": "人事部でも2週目担当できます。", "authorUserId": "emp-020", "authorName": "清水", "createdAt": "202604131556", "updatedAt": "202604131556" },
+    { "id": "cmt-123", "postId": "post-039", "body": "営業部でも手伝えます。昼休み前後なら対応しやすいです。", "authorUserId": "emp-005", "authorName": "伊藤", "createdAt": "202604131604", "updatedAt": "202604131604" },
+
+    { "id": "cmt-124", "postId": "post-040", "body": "最近だと『イシューからはじめよ』を読み返しました。会議の持ち方にも効きます。", "authorUserId": "emp-031", "authorName": "前田", "createdAt": "202604151745", "updatedAt": "202604151745" },
+    { "id": "cmt-125", "postId": "post-040", "body": "小説なら短編が多いものが通勤時間に読みやすいです。", "authorUserId": "emp-013", "authorName": "佐々木", "createdAt": "202604151753", "updatedAt": "202604151753" },
+    { "id": "cmt-126", "postId": "post-040", "body": "採用広報の参考でデザイン本をよく見ています。", "authorUserId": "emp-021", "authorName": "山崎", "createdAt": "202604151801", "updatedAt": "202604151801" },
+
+    { "id": "cmt-127", "postId": "post-041", "body": "営業向けだと提案書レビューの観点整理があるとうれしいです。", "authorUserId": "emp-004", "authorName": "田中", "createdAt": "202604161715", "updatedAt": "202604161715" },
+    { "id": "cmt-128", "postId": "post-041", "body": "採用広報の写真の撮り方とかもニーズありそうです。", "authorUserId": "emp-018", "authorName": "林", "createdAt": "202604161723", "updatedAt": "202604161723" },
+    { "id": "cmt-129", "postId": "post-041", "body": "ショートカットや自動化系の小ネタ回があると参加しやすいです。", "authorUserId": "emp-016", "authorName": "井上", "createdAt": "202604161731", "updatedAt": "202604161731" },
+
+    { "id": "cmt-130", "postId": "post-042", "body": "折りたたみ傘を2本持ちにして、1本は会社置きにしています。", "authorUserId": "emp-011", "authorName": "吉田", "createdAt": "202604181715", "updatedAt": "202604181715" },
+    { "id": "cmt-131", "postId": "post-042", "body": "撥水のリュックカバーがかなり便利でした。", "authorUserId": "emp-029", "authorName": "石井", "createdAt": "202604181723", "updatedAt": "202604181723" },
+    { "id": "cmt-132", "postId": "post-042", "body": "替えの靴下をロッカーに置いておく派です。", "authorUserId": "emp-024", "authorName": "橋本", "createdAt": "202604181731", "updatedAt": "202604181731" },
+
+    { "id": "cmt-133", "postId": "post-043", "body": "駅前の和食店は大人数でも入りやすかったです。", "authorUserId": "emp-013", "authorName": "佐々木", "createdAt": "202604201715", "updatedAt": "202604201715" },
+    { "id": "cmt-134", "postId": "post-043", "body": "席間が広い店だと話しやすくて良かったです。", "authorUserId": "emp-007", "authorName": "山本", "createdAt": "202604201723", "updatedAt": "202604201723" },
+    { "id": "cmt-135", "postId": "post-043", "body": "ベジタリアン対応がある店も候補に入れたいです。", "authorUserId": "emp-020", "authorName": "清水", "createdAt": "202604201731", "updatedAt": "202604201731" },
+
+    { "id": "cmt-136", "postId": "post-044", "body": "モニター台兼収納みたいなものが地味に便利でした。", "authorUserId": "emp-033", "authorName": "長谷川", "createdAt": "202604221715", "updatedAt": "202604221715" },
+    { "id": "cmt-137", "postId": "post-044", "body": "ケーブル整理はマグネット式が使いやすいです。", "authorUserId": "emp-028", "authorName": "中島", "createdAt": "202604221723", "updatedAt": "202604221723" },
+    { "id": "cmt-138", "postId": "post-044", "body": "姿勢改善ならフットレストもかなり効きました。", "authorUserId": "emp-017", "authorName": "木村", "createdAt": "202604221731", "updatedAt": "202604221731" },
+
+    { "id": "cmt-139", "postId": "post-045", "body": "Googleスプレッドシートのフィルタ系ショートカットをよく使っています。", "authorUserId": "emp-019", "authorName": "斎藤", "createdAt": "202604241715", "updatedAt": "202604241715" },
+    { "id": "cmt-140", "postId": "post-045", "body": "ブラウザのタブ移動系は地味に時短効果が大きいです。", "authorUserId": "emp-031", "authorName": "前田", "createdAt": "202604241723", "updatedAt": "202604241723" },
+    { "id": "cmt-141", "postId": "post-045", "body": "チャットの未読ジャンプ系もまとめたいです。", "authorUserId": "emp-021", "authorName": "山崎", "createdAt": "202604241731", "updatedAt": "202604241731" },
+
+    { "id": "cmt-142", "postId": "post-046", "body": "昼休みに10分だけ散歩すると切り替えやすいです。", "authorUserId": "emp-012", "authorName": "山田", "createdAt": "202605011215", "updatedAt": "202605011215" },
+    { "id": "cmt-143", "postId": "post-046", "body": "温かい飲み物を淹れ直すだけでもかなり変わります。", "authorUserId": "emp-024", "authorName": "橋本", "createdAt": "202605011223", "updatedAt": "202605011223" },
+    { "id": "cmt-144", "postId": "post-046", "body": "午後一に短いストレッチを入れるようにしています。", "authorUserId": "emp-029", "authorName": "石井", "createdAt": "202605011231", "updatedAt": "202605011231" },
+
+    { "id": "cmt-145", "postId": "post-047", "body": "最近だと個包装の焼き菓子が配りやすくて好評でした。", "authorUserId": "emp-015", "authorName": "松本", "createdAt": "202605021245", "updatedAt": "202605021245" },
+    { "id": "cmt-146", "postId": "post-047", "body": "塩系スナックも甘い物が苦手な人に刺さります。", "authorUserId": "emp-008", "authorName": "中村", "createdAt": "202605021253", "updatedAt": "202605021253" },
+    { "id": "cmt-147", "postId": "post-047", "body": "個包装で日持ちするものだと総務としても助かります。", "authorUserId": "emp-011", "authorName": "吉田", "createdAt": "202605021301", "updatedAt": "202605021301" },
+
+    { "id": "cmt-148", "postId": "post-048", "body": "最近だと『週末に見た展示が良かった』みたいな軽い話題が使いやすかったです。", "authorUserId": "emp-020", "authorName": "清水", "createdAt": "202605071015", "updatedAt": "202605071015" },
+    { "id": "cmt-149", "postId": "post-048", "body": "気候ネタと業務小ネタを一緒にすると話しやすいです。", "authorUserId": "emp-013", "authorName": "佐々木", "createdAt": "202605071023", "updatedAt": "202605071023" },
+    { "id": "cmt-150", "postId": "post-048", "body": "おすすめランチの新店情報も朝会で盛り上がりました。", "authorUserId": "emp-007", "authorName": "山本", "createdAt": "202605071031", "updatedAt": "202605071031" }
+  ]
+}

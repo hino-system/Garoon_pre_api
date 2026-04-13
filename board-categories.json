@@ -1,0 +1,152 @@
+{
+  "items": [
+    {
+      "id": "cat-company",
+      "name": "全社連絡",
+      "description": "全社員向けのお知らせを掲載します。",
+      "sortOrder": 1,
+      "viewPermissions": [
+        {
+          "type": "role",
+          "value": "member"
+        },
+        {
+          "type": "role",
+          "value": "section_manager"
+        },
+        {
+          "type": "role",
+          "value": "department_manager"
+        },
+        {
+          "type": "role",
+          "value": "president"
+        }
+      ],
+      "postPermissions": [
+        {
+          "type": "role",
+          "value": "department_manager"
+        },
+        {
+          "type": "role",
+          "value": "president"
+        }
+      ],
+      "adminPermissions": [
+        {
+          "type": "role",
+          "value": "department_manager"
+        },
+        {
+          "type": "role",
+          "value": "president"
+        }
+      ]
+    },
+    {
+      "id": "cat-department",
+      "name": "部門連絡",
+      "description": "部門内のお知らせを共有します。",
+      "sortOrder": 2,
+      "viewPermissions": [
+        {
+          "type": "role",
+          "value": "member"
+        },
+        {
+          "type": "role",
+          "value": "section_manager"
+        },
+        {
+          "type": "role",
+          "value": "department_manager"
+        },
+        {
+          "type": "role",
+          "value": "president"
+        }
+      ],
+      "postPermissions": [
+        {
+          "type": "role",
+          "value": "section_manager"
+        },
+        {
+          "type": "role",
+          "value": "department_manager"
+        },
+        {
+          "type": "role",
+          "value": "president"
+        }
+      ],
+      "adminPermissions": [
+        {
+          "type": "role",
+          "value": "section_manager"
+        },
+        {
+          "type": "role",
+          "value": "department_manager"
+        },
+        {
+          "type": "role",
+          "value": "president"
+        }
+      ]
+    },
+    {
+      "id": "cat-free",
+      "name": "社内共有",
+      "description": "自由に情報共有できる掲示板です。",
+      "sortOrder": 3,
+      "viewPermissions": [
+        {
+          "type": "role",
+          "value": "member"
+        },
+        {
+          "type": "role",
+          "value": "section_manager"
+        },
+        {
+          "type": "role",
+          "value": "department_manager"
+        },
+        {
+          "type": "role",
+          "value": "president"
+        }
+      ],
+      "postPermissions": [
+        {
+          "type": "role",
+          "value": "member"
+        },
+        {
+          "type": "role",
+          "value": "section_manager"
+        },
+        {
+          "type": "role",
+          "value": "department_manager"
+        },
+        {
+          "type": "role",
+          "value": "president"
+        }
+      ],
+      "adminPermissions": [
+        {
+          "type": "role",
+          "value": "department_manager"
+        },
+        {
+          "type": "role",
+          "value": "president"
+        }
+      ]
+    }
+  ]
+}
